@@ -47,17 +47,6 @@ php artisan key:generate
 php artisan ser
 ```
 
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek, silakan ikuti langkah-langkah berikut:
-
-1. Fork proyek
-2. Buat branch baru (`git checkout -b fitur/fitur-baru`)
-3. Lakukan perubahan Anda
-4. Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`)
-5. Push ke branch Anda (`git push origin fitur/fitur-baru`)
-6. Buat Permintaan Tarik baru
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
